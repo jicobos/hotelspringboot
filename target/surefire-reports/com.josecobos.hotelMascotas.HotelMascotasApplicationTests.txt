@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.josecobos.hotelMascotas.HotelMascotasApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.855 s - in com.josecobos.hotelMascotas.HotelMascotasApplicationTests
